@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ORoq2xtGF0//YnQ6QI5WYBO7oIEZVu85T2Cljt6rDvw=",
+  "Source": "aspnetcore-telegram-logger",
+  "BasePath": "_content/aspnetcore-telegram-logger",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

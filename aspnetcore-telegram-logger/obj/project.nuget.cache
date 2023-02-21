@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tECYdNaR1gLGpSj9m1rVSjcMFODKqvlHuLkhB9ZNknUSiwOE0tx+xW54bDXNvZs4rWfgoN0qH0Xfai/91rQ4ew==",
+  "success": true,
+  "projectFilePath": "/Users/xxxxxx/Desktop/code/aspnetcore-telegram-logger/aspnetcore-telegram-logger/aspnetcore-telegram-logger.csproj",
+  "expectedPackageFiles": [
+    "/Users/xxxxxx/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/xxxxxx/.nuget/packages/telegram.bot/18.0.0/telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
